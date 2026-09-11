@@ -1,2 +1,3 @@
  Student-details
  Add second student details  
+course information have been updated
